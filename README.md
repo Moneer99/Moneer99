@@ -29,6 +29,8 @@ Results-driven **Mobile Developer** specialized in **React Native**. I focus on 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-11aac2?style=for-the-badge&logo=php&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Laravel-a42633?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 ---
